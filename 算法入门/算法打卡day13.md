@@ -64,7 +64,7 @@ int hammingWeight(uint32_t n) {
 }
 ```
 
-可以把
+自己在纸上写写 `n & (n - 1)`
 
 ```c
 int hammingWeight(uint32_t n) {
